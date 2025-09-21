@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "vsquikExtension (Package)": {
+      "commandName": "MsixPackage",
+      "doNotLaunchApp": true
+    },
+    "vsquikExtension (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
