@@ -14,7 +14,7 @@ public partial class vsquikExtensionCommandsProvider : CommandProvider
     public vsquikExtensionCommandsProvider()
     {
         DisplayName = "vsquik";
-        Icon = IconHelpers.FromRelativePath("Assets\\StoreLogo.png");
+        Icon = IconHelpers.FromRelativePath(path: "Assets\\vscode.png");
         _commands = [
             new CommandItem(new vsquikExtensionPage()) { Title = DisplayName },
         ];

@@ -14,7 +14,7 @@ namespace vsquikExtension
 
         public override string Name => "Open in VS Code";
 
-        public override IconInfo Icon => new("\uE8A7"); // Optional: use an appropriate icon
+        public override IconInfo Icon => new("\uE8A7");
 
         public override CommandResult Invoke()
         {
