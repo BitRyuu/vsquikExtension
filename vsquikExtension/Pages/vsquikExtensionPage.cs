@@ -47,6 +47,7 @@ namespace vsquikExtension
                     try
                     {
                         path = new Uri(uri).LocalPath;
+                        path = path.Remove(0, 1);
                     }
                     catch
                     {

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 
 <Package
   xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10"
@@ -17,8 +17,8 @@
 
   <Properties>
     <DisplayName>vsquik</DisplayName>
-    <PublisherDisplayName>A Lone Developer</PublisherDisplayName>
-    <Logo>Assets\StoreLogo.png</Logo>
+    <PublisherDisplayName>SAGAR BHAJANTRI</PublisherDisplayName>
+    <Logo>Assets\vscode.png</Logo>
   </Properties>
 
   <Dependencies>
